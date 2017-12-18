@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StoreDatabase</string>
+
+    <string name="empty_view_title_text">No items to be found</string>
+    <string name="empty_view_subtitle_text">Click the button at the bottom to start adding items</string>
+
+    <string name="new_item_title">Add an Item</string>
+    <string name="edit_item_title">Edit Item</string>
+
+    <string name="editor_insert_fail">Error with saving item</string>
+    <string name="editor_insert_success">Item saved</string>
+    <string name="editor_update_fail">Error with updating item</string>
+    <string name="editor_update_success">Item updated</string>
+    <string name="editor_delete_fail">Error with deleting item</string>
+    <string name="editor_delete_success">Item deleted</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this Item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
